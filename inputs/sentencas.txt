@@ -1,0 +1,3 @@
+Projeto no Azure.
+Criando um novo chat no Playground.
+Aprendendo mais sobre Azure Foundry.
